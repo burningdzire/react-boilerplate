@@ -20,12 +20,7 @@
     "Node",
     "React"
   ],
-  "author": "Nick Karnik",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/theoutlander/react-boilerplate/issues"
-  },
-  "homepage": "https://github.com/theoutlander/react-boilerplate#readme",
+  "author": "Mohit Sharma",
   "dependencies": {
     "express": "^4.16.2",
     "react": "^16.0.0",
